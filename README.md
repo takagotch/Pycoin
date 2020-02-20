@@ -41,6 +41,6 @@ PYCOIN_NATIVE=openssl
 export PYCOIN_NATIVE
 ```
 
-```
+```sh
 ```
 
